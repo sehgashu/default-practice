@@ -37,6 +37,10 @@ public class Card {
         return value;
     }
 
+    public static String[] getSUITS() {
+        return SUITS;
+    }
+
     /**
      * @param value the value to set
      */
