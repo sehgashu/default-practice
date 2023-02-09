@@ -48,3 +48,5 @@ public class Card {
         this.value = value;
     }  
 }
+System.out.println("my name is shubham sehgal");
+   System.out.println("class is software development");
